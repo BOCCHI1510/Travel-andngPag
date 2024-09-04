@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+.header {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 3rem 0;
+}
+.header .logo .logo__title {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 1.5vw;
+}/*# sourceMappingURL=header.css.map */
